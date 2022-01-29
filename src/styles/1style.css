@@ -1,0 +1,67 @@
+
+/* border around each block displaying time*/
+div.card {
+  border:3px solid orange;
+  background-color:darkgrey;
+}
+
+/* main header title */
+.jumbotron {
+  margin-left:25%;}
+
+/*background color for page*/
+body {
+  background-color:darkgrey;
+}
+
+/*lining up elements under main title*/
+.lead {
+  margin-left:10%;}
+p#currentDay {
+  size:150%;
+  color:darkorchid;
+  font-weight:bolder;
+}
+
+/*save and clear button looking spicy, now if only the clear button worked*/
+#savebtn  {
+  color:rgb(255, 255, 255);
+  background-color:rgb(54, 0, 250);
+  width:10%;
+  margin-left:45%;
+  display:inline-table;
+}
+#savebtn:hover {
+  
+  background-color:darkblue;
+}
+#clearbtn {
+  color:rgb(0, 25, 250);
+  background-color:rgb(255, 255, 255);
+  width:10%;
+  margin-left:45%;
+  display:inline-table;
+  }
+  #clearbtn:hover{
+    background-color:grey;
+  }
+/*making time for block easier to see*/
+#timeP {
+  display:block;
+  color:black;
+  font-size:x-large;
+}
+.past {
+  /* background-color: gray; */
+
+  background-color: gray;
+}
+.present {
+  background-color: #ffffff;
+  border:2px solid orange;
+
+}
+.future {
+  background-color:teal;
+
+}
