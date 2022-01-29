@@ -3,7 +3,7 @@
 
 This application will allow you to save important events to help organize your work day more effectively!
 
-Visit here --> https://gammahazard.github.io/WorkDayPlanner/
+Visit here --> https://gammahazard.github.io/WorkDayPlanner/src/
 
 
   Upon opening the application you will be presented with the current day of the week and current time.
