@@ -12,6 +12,7 @@ This application will allow you to save important events to help organize your w
 
   Underneath you will notice 8 separate blocks divided into the hours from 9AM-5PM, simply write down important events scehduled for your day and click save.
 
+*Events will persist after page refresh, clear button is not working, to clear for now please delete entry and re-save*
 
 
   Blocks will be displayed color-coded based on the current time of day: 
